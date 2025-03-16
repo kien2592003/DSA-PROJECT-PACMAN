@@ -6,13 +6,13 @@ This project is a Pac-Man-inspired game implemented in Java. It features AI-driv
 
 Features
 
-Classic Pac-Man gameplay mechanics
+- Classic Pac-Man gameplay mechanics
 
-Intelligent ghost behavior using BFS and Dijkstra's Algorithm
+- Intelligent ghost behavior using BFS and Dijkstra's Algorithm
 
-Object-oriented design with clear separation of game logic and AI behaviors
+- Object-oriented design with clear separation of game logic and AI behaviors
 
-Implemented in Java with an Eclipse project structure
+- Implemented in Java with an Eclipse project structure
 
 Project Structure
 
