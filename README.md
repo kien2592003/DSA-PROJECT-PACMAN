@@ -18,19 +18,33 @@ Project Structure
 
 dsa_project/
 ├── src/
+
 │   ├── game/                 # Core game logic
+
 │   │   ├── GameLogic.java
+
 │   │   ├── MazeLoader.java
+
 │   │   ├── PacManGame.java
+
 │   │   ├── PacManKeyListener.java
+
 │   ├── GhoulBehaviours/      # AI behaviors for ghosts
+
 │   │   ├── BFSGhoulBehavior.java
+
 │   │   ├── DijkstraGhoulBehavior.java
+
 │   ├── Model/               # Game entity models
+
 │       ├── PacMan.java
+
 │       ├── Ghoul.java
+
 ├── bin/                     # Compiled Java class files
+
 ├── .classpath               # Eclipse project configuration
+
 ├── .project                 # Eclipse project metadata
 
 Setup and Installation
