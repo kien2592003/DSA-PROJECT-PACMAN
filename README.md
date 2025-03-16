@@ -65,15 +65,15 @@ cd dsa-pacman-game
 
 Open the project in Eclipse:
 
-Select File > Open Projects from File System
+- Select File > Open Projects from File System
 
-Choose the extracted project folder
+- Choose the extracted project folder
 
-Click Finish
+- Click Finish
 
-Run PacManGame.java as a Java Application.
+- Run PacManGame.java as a Java Application.
 
-Contributors
+- Contributors
 
 Le Trung Kien – Developer
 
